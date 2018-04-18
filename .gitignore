@@ -1,0 +1,8 @@
+# Include your project-specific ignores in this file
+.idea
+.project
+.DS_Store
+.vscode
+npm-debug.log
+node_modules
+dist
